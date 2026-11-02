@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zExceptions",
+  "versions": [
+    {
+      "commit": "0da83f1f967d8b0cb165b756bce42229b6fe75a6",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:40:21.880495+00:00"
+    }
+  ]
+}
