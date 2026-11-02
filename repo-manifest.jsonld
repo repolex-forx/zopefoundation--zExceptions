@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/zExceptions/commit/0da83f1f967d8b0cb165b756bce42229b6fe75a6",
       "git:hexsha": "0da83f1f967d8b0cb165b756bce42229b6fe75a6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T21:40:21.879937+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/zExceptions/commit/cf3631d3f1013512a9bf8f77013318730a6b381e",
